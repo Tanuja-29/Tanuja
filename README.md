@@ -16,7 +16,7 @@ My first repository in GITHUB
 
 [link](https://www.google.com/)
 
-![https://bigtechnologytrends.com/wp-content/uploads/2021/03/Dr-Tanu-Jain.png]
+![tanu](https://bigtechnologytrends.com/wp-content/uploads/2021/03/Dr-Tanu-Jain.png)
 
 * fruits
   * mango
