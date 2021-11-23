@@ -17,3 +17,12 @@ My first repository in GITHUB
 [link](https://www.google.com/)
 
 ![https://bigtechnologytrends.com/wp-content/uploads/2021/03/Dr-Tanu-Jain.png]
+
+1.fruits
+  * mango
+  * grapes
+  * cherry
+  * orange
+  * apple
+  * strawberry
+ 
