@@ -18,7 +18,7 @@ My first repository in GITHUB
 
 ![https://bigtechnologytrends.com/wp-content/uploads/2021/03/Dr-Tanu-Jain.png]
 
-1.fruits
+* fruits
   * mango
   * grapes
   * cherry
@@ -26,3 +26,9 @@ My first repository in GITHUB
   * apple
   * strawberry
  
+1. fruits
+   1. apple
+   2. berry
+   3. cherry
+   4. dragon fruit
+   
