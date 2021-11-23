@@ -7,3 +7,11 @@ My first repository in GITHUB
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+*Tanuja*
+
+**Tanuja**
+
+***Tanuja***
+
+
